@@ -1,2 +1,2 @@
-# mybatisgeneator
-idea使用mybatis-geneator工具成品
+# mybatisgenerator
+idea使用mybatis-generator工具成品
